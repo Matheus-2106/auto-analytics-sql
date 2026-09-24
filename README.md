@@ -1,8 +1,8 @@
 # Auto Analytics & Retail DB — Modelagem e Análise de Dados em SQL
 
-Este projeto consiste na modelagem e implementação de um banco de dados relacional para controle de vendas, clientes, catálogo de produtos e movimentação de estoque em um cenário do setor de varejo/automotivo.
+Este projeto consiste na modelagem, implementação e análise de um banco de dados relacional para controle de vendas, clientes, catálogo de produtos e movimentação de estoque no setor de varejo/automotivo.
 
-O objetivo é demonstrar a aplicação prática de **SQL Avançado** (Window Functions, CTEs, Joins complexos), **Integridade Referencial**, **Automação via Triggers/Functions** e **Geração de Métricas Financeiras/Analytics**.
+O objetivo principal é demonstrar a aplicação prática de **SQL Avançado** (Window Functions, CTEs, Joins complexos), **Integridade Referencial**, **Automação via Triggers/Functions** e **Geração de KPIs de Negócio**.
 
 ---
 
