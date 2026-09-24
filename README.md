@@ -1,4 +1,4 @@
-# 🚗 Auto Analytics & Retail DB — Modelagem e Análise de Dados em SQL
+# Auto Analytics & Retail DB — Modelagem e Análise de Dados em SQL
 
 Este projeto consiste na modelagem e implementação de um banco de dados relacional para controle de vendas, clientes, catálogo de produtos e movimentação de estoque em um cenário do setor de varejo/automotivo.
 
@@ -6,7 +6,7 @@ O objetivo é demonstrar a aplicação prática de **SQL Avançado** (Window Fun
 
 ---
 
-## 📌 Diagrama de Entidade-Relacionamento (DER)
+## Diagrama de Entidade-Relacionamento (DER)
 
 Abaixo está o modelo conceitual de dados estruturado para suportar o fluxo completo desde a estocagem até o faturamento.
 
