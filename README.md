@@ -100,6 +100,7 @@ Para montar o ambiente do zero com todas as automações e dados de teste, execu
 
 ## Estrutura do Repositório
 
+```
 auto-analytics-sql/
 │
 ├── schema/
@@ -113,3 +114,4 @@ auto-analytics-sql/
 │   └── 01_views_triggers.sql      # Views para BI e Triggers/Functions
 │
 └── README.md                      # Documentação completa do projeto
+```
